@@ -12,6 +12,12 @@ Credits:
 
 ## Usage:
 
-1. paste all the youtube's url you want to convert, one below the other (I do not take any responsability for copyright infringments)
-2. Run <code>python3 youtubeToStems.py </code>
-3. enjoy!!
+Parameters:
+
+'-s', '--stems' (Quantity of stems:2,4 or 5. default: 5)<br>
+'--input'       (Select file to read links. default: inputFile.txt)
+
+1. paste all the youtube's url you want to convert to the desired input file, one below the other (I do not take any responsability for copyright infringments)
+2. Select number of stems: 2 (vocals and arrangement), 4(vocal, bass, drums, everyhing else) or 5(4 + piano)
+3. Run <code>python3 youtubeToStems.py </code>
+4. enjoy!!
