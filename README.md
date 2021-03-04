@@ -14,8 +14,8 @@ Credits:
 
 Parameters:
 
-'-s', '--stems' (Quantity of stems:2,4 or 5. default: 5)<br>
-'--input'       (Select file to read links. default: inputFile.txt)
+<code>-s</code> or <code>--stems</code> (Quantity of stems:2,4 or 5. default: 5)<br>
+<code>--input</code>       (Select file to read links. default: inputFile.txt)
 
 1. paste all the youtube's url you want to convert to the desired input file, one below the other (I do not take any responsability for copyright infringments)
 2. Select number of stems: 2 (vocals and arrangement), 4(vocal, bass, drums, everyhing else) or 5(4 + piano)
